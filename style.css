@@ -2,12 +2,15 @@
     margin: 0;
     padding: 0;
     color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #cp{
     width: 100vw;
     height: 100vh;
-    background-color: #070E27;
+    background-color: #ECECEC;
+    min-width: 100px;
+    max-width: 1920px;
 }
 
 
@@ -21,15 +24,16 @@
     margin-top: 10px;
     margin-left: 5%;
     width: 30%;
-    background-color: white;
     height: 100%;
-    
+    margin-right: 2%;
+    font-size: 30px;
 }
 
 #ot ul{
     display: flex;
     height: 78%;
     list-style: none;
-    margin-top: 10px;
-    background-color: white;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
 }
