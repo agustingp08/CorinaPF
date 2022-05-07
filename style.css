@@ -27,6 +27,7 @@
     height: 100%;
     margin-right: 2%;
     font-size: 30px;
+    background-color: red;
 }
 
 #ot ul{
@@ -37,3 +38,13 @@
     font-size: 18px;
     text-align: center;
 }
+
+.txt{
+    margin-left: 5%;
+    width: 30%;
+    text-indent: 10px;
+    background-color: red;
+}
+
+
+
