@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+#cp{
+    width: 100vw;
+    height: 100vh;
+    background-color: #070E27;
+}
+
+
+.mp{
+    display: flex;
+    color: white;
+    text-indent: 50px;
+}
+
+.mp #tt{
+    margin-top: 10px;
+    margin-left: 5%;
+    width: 30%;
+    background-color: white;
+    height: 100%;
+    
+}
+
+#ot ul{
+    display: flex;
+    height: 78%;
+    list-style: none;
+    margin-top: 10px;
+    background-color: white;
+}
